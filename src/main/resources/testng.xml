@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<suite name="TestSuite">
+    <test name = "testGuru">
+        <classes>
+            <class name = "com.crm.testcases.TestHomePage"/>
+            <class name = "com.crm.testcases.TestFormsPage"/>
+            <class name = "com.crm.testcases.TestCampaignsPage"/>
+            <class name = "com.crm.testcases.TestContactPage"/>
+            <class name = "com.crm.testcases.TestCallsPage"/>
+            <class name = "com.crm.testcases.TestDealsPage"/>
+<!--            <class name = "com.crm.testcases.TestDocumentsPage"/>-->
+<!--            <class name = "com.crm.testcases.TestEmailPage"/>-->
+<!--            <class name = "com.crm.testcases.TestTaskPage"/>-->
+<!--            <class name = "com.crm.testcases.TestCasePage"/>-->
+<!--            <class name = "com.crm.testcases.TestCompaniesPage">-->
+<!--            </class>-->
+        </classes>
+    </test>
+</suite>
